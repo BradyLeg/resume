@@ -1,0 +1,31 @@
+html {
+    font-family: 'Segoe UI', Roboto, sans-serif;
+    background-color: aliceblue;
+}
+
+body {
+    margin: 20px 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    display: block;
+    margin: 5px 0px;
+}
+
+div.ed-info>p {
+    margin: 3px 0px;
+}
+
+div.image {
+    display: flex;
+    justify-self: center;
+    margin: 20px;
+}
+
+image {
+    width: 50%;
+}
